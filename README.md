@@ -1,3 +1,1 @@
-#Crito&Gold
-extraccion datos de YFinance
-Se extren datos de BTCUSD, ETHUSD, Oro, IBEX35 y S&P500 para realizar un analisis de su comportamiento en Power Bi.
+#Criptomonedas #Gold #IBEX35 #SP500  Extraccion datos de YFinance. Se extraen datos de BTCUSD, ETHUSD, GOLD, IBEX35 y S&P500 para realizar un análisis de su comportamiento en Power Bi.
